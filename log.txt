@@ -1,0 +1,1 @@
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/CO, flammable gasses sensor MQ9 breakout/.git/
