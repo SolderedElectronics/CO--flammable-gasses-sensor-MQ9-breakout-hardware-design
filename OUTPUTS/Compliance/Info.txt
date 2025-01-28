@@ -1,5 +1,5 @@
 SKU: 333109
 Full product name: CO, flammable gasses sensor MQ9 breakout
 Country of origin: Croatia
-HS tariff code: 85319010
+HS tariff code: 85340090
 EAN/UPC barcode: 732388667406
